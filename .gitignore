@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+code_point_open.csv
+rainfall_hadukgrid_uk_1km_ann_202101-202112.nc
