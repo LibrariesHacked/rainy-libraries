@@ -336,7 +336,7 @@ Cheshire West and Chester,Northwich Library,CW9 5DR
 Cheshire West and Chester,Malpas Library,SY14 8JD
 Cheshire West and Chester,Helsby Library,WA6 0BW
 Cheshire West and Chester,Frodsham Library,WA6 6RX
-Hartlepool,Headland Library,TS24 0JD
+Hartlepool,Headland Library,TS24 0BE
 Hartlepool,Seaton Carew Library,TS25 1BN
 Hartlepool,Community Hub South,TS25 3LQ
 Hartlepool,Community Hub Central,TS26 9DE
@@ -974,7 +974,7 @@ Lancashire,Coppull,PR7 5DF
 Lancashire,Earby,BB18 6QX
 Lancashire,Eccleston,PR7 5TE
 Lancashire,Euxton,PR7 6AH
-Lancashire,Fleetwood,FY7 6AJ
+Lancashire,Fleetwood,FY7 7ND
 Lancashire,Freckleton,PR4 1PB
 Lancashire,Fulwood,PR2 9RX
 Lancashire,Garstang,PR3 1ED
@@ -1365,7 +1365,7 @@ Southampton,Shirley,SO15 5LL
 Southampton,Lordshill,SO16 8HY
 Southampton,Portswood,SO17 2NG
 Southampton,Bitterne,SO18 5EG
-Southampton,Woolston,SO19 9EF
+Southampton,Woolston,SO19 9DE
 Southwark,Blue Anchor Library,SE16 3UQ
 Southwark,Brandon Library,SE17 3NH
 Southwark,Camberwell Library,SE5 7AL
@@ -1501,7 +1501,7 @@ West Sussex,East Grinstead Library,RH19 4SR
 West Sussex,Pulborough Library,RH20 2BP
 West Sussex,Storrington Library,RH20 4PA
 Wigan,Tyldesley,M29 8AE
-Wigan,Atherton,M46 9JP
+Wigan,Atherton,M46 9JD
 Wigan,Golborne,WA3 3AW
 Wigan,Wigan,WN1 1NH
 Wigan,Aspull,WN2 1XJ
@@ -1811,7 +1811,7 @@ Kent,Tunbridge Wells Library (Temporary location),TN1 2SS
 North Lincolnshire,Winterton Library & Fitness Centre,DN15 9QF
 North Lincolnshire,Broughton Jubilee Library,DN20 0JX
 North Somerset,Portishead library,BS20 7AL
-North Somerset,Weston-super-Mare library,BS23 1UJ
+North Somerset,Weston-super-Mare library,BS23 1XY
 North Yorkshire,Nidderdale Plus Community Library,HG3 5AT
 Nottingham,Dales Centre Library,NG2 4HJ
 Salford,Broughton Hub Library,M7 4BQ
@@ -1889,14 +1889,14 @@ Shropshire,Craven Arms,SY7 9PS
 Slough,Library @ The Curve,SL1 1XY
 Warwickshire,Alcester Library and Information Centre,B49 5DZ
 Manchester,Abraham Moss Library,M8 5UF
-Manchester,Arcadia library & Leisure Centre,M19 3PH
+Manchester,Arcadia library & Leisure Centre,M19 3BW
 Manchester,Avenue Library & Learning Centre,M9 6HW
 Manchester,Beswick Library,M11 3DS
 Manchester,Hulme High Street Library,M15 5NN
 Peterborough,Hampton,PE7 8GL
 South Tyneside,Jarrow Focus Library,NE32 3QN
 South Tyneside,Library at Hebburn Central,NE31 1PN
-South Tyneside,The Word Library,NE33 1DX
+South Tyneside,The Word Library,NE33 1JF
 Waltham Forest,Wood Street Library,E17 3HB
 Lewisham,The Library at Deptford Lounge,SE8 4RJ
 Wokingham,Arborfield,RG2 9ND
@@ -2153,7 +2153,7 @@ Wolverhampton,Warstones Library,WV4 4PT
 Wolverhampton,Wednesfield Library,WV11 1XT
 Wolverhampton,Whitmore Reans Library,WV6 0QW
 Wolverhampton,Wolverhampton Central Library,WV1 3AX
-Devon,Appledore,EX39 1QS
+Devon,Appledore,EX39 4NT
 Devon,Axminster,EX13 5AD
 Devon,Bampton,EX16 9NE
 Devon,Barnstaple,EX31 1EL
@@ -2222,9 +2222,9 @@ Essex,Brentwood Library,CM14 4BP
 Essex,Brightlingsea Library,CO7 0BZ
 Essex,Broomfield Library,CM1 7AH
 Essex,Buckhurst Hill Library,IG9 5AZ
-Essex,Burnham-on-Crouch Library,CM0 8HQ
+Essex,Burnham-on-Crouch Library,CM0 8BL
 Essex,Canvey Island Library,SS8 7RB
-Essex,Chelmsford Library,CM1 1LH
+Essex,Chelmsford Library,CM1 1QH
 Essex,Chigwell Library,IG7 6QX
 Essex,Chipping Ongar Library,CM5 9AB
 Essex,Clacton Library,CO15 1SF
@@ -2280,7 +2280,7 @@ Essex,Tiptree Library,CO5 0SX
 Essex,Tye Green Library,CM18 6LU
 Essex,Vange Library,SS16 4ET
 Essex,Waltham Abbey Library,EN9 1EL
-Essex,Walton Library,CO14 8AE
+Essex,Walton Library,CO14 8FR
 Essex,West Clacton Library,CO16 8BE
 Essex,West Mersea Library,CO5 8QA
 Essex,Wickford Library,SS12 0AG
@@ -2327,7 +2327,7 @@ Isle of Wight,Cowes,PO31 7SG
 Isle of Wight,Freshwater,PO40 9AP
 Isle of Wight,Lord Louis,PO30 1LL
 Isle of Wight,Ryde,PO33 2JE
-Isle of Wight,Sandown,PO36 8AF
+Isle of Wight,Sandown,PO36 9FE
 Isle of Wight,Ventnor,PO38 1LZ
 Kensington and Chelsea,Brompton Library,SW5 0BS
 Kensington and Chelsea,Chelsea Library,SW3 5EZ
@@ -2378,8 +2378,8 @@ Newham,Plaistow Library,E13 9HL
 Newham,Stratford Library,E15 1EL
 Newham,The Gate Library,E7 0QH
 North Tyneside,Battle Hill Library,NE28 9JE
-North Tyneside,Cullercoats Library,NE30 3JY
-North Tyneside,Forest Hall Library,NE12 0LJ
+North Tyneside,Cullercoats Library,NE30 3LA
+North Tyneside,Forest Hall Library,NE12 7LJ
 North Tyneside,Howdon Library,NE28 7TG
 North Tyneside,John Willie Sams Centre Library,NE23 7HS
 North Tyneside,Killingworth (located in the White Swan Customer First Centre),NE12 6SS
@@ -2417,7 +2417,7 @@ Redcar and Cleveland,Ormesby Library,TS7 9BL
 Redcar and Cleveland,Redcar Library,TS10 1RT
 Redcar and Cleveland,Roseberry Library,TS10 4EW
 Redcar and Cleveland,Saltburn Library,TS12 1AT
-Redcar and Cleveland,Skelton Library,TS12 2HN
+Redcar and Cleveland,Skelton Library,TS12 2HP
 Redcar and Cleveland,South Bank Library,TS6 6TD
 Stoke-on-Trent,Bentilee Library,ST2 0EU
 Stoke-on-Trent,City Central Library (Hanley),ST1 3RS
@@ -2462,7 +2462,7 @@ Suffolk,Felixstowe,IP11 7BY
 Suffolk,Framlingham,IP13 9BA
 Suffolk,Gainsborough,IP3 0RL
 Suffolk,Glemsford,CO10 7RH
-Suffolk,Great Cornard,CO10 0JU
+Suffolk,Great Cornard,CO10 0NH
 Suffolk,Hadleigh,IP7 5AG
 Suffolk,Halesworth,IP19 8AD
 Suffolk,Haverhill,CB9 8HB
@@ -2505,7 +2505,7 @@ Wandsworth,Balham Library,SW12 8QY
 Wandsworth,Battersea Library,SW11 1JB
 Wandsworth,Battersea Park Library,SW11 4NF
 Wandsworth,Earlsfield Library,SW18 3NY
-Wandsworth,Northcote Library,SW11 6HW
+Wandsworth,Northcote Library,SW11 6QB
 Wandsworth,Putney Library,SW15 2DR
 Wandsworth,Roehampton Library,SW15 4HD
 Wandsworth,Southfields Library,SW19 6NL

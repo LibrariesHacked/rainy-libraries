@@ -4,8 +4,6 @@ A small data analysis project looking at the most rainy libraries in England.
 
 ## Prerequisites
 
-What things you need to install the software and how to install them
-
 * Python 3
 * Pip
 
